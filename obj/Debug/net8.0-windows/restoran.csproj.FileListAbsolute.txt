@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\restoran\restoran\obj\Debug\net8.0-windows\restoran.Form1.resources
+C:\Users\Student\source\repos\restoran\restoran\obj\Debug\net8.0-windows\restoran.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\restoran\restoran\obj\Debug\net8.0-windows\restoran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\restoran\restoran\obj\Debug\net8.0-windows\restoran.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\restoran\restoran\obj\Debug\net8.0-windows\restoran.AssemblyInfo.cs
+C:\Users\Student\source\repos\restoran\restoran\obj\Debug\net8.0-windows\restoran.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\restoran\restoran\bin\Debug\net8.0-windows\restoran.exe
+C:\Users\Student\source\repos\restoran\restoran\bin\Debug\net8.0-windows\restoran.deps.json
+C:\Users\Student\source\repos\restoran\restoran\bin\Debug\net8.0-windows\restoran.runtimeconfig.json
+C:\Users\Student\source\repos\restoran\restoran\bin\Debug\net8.0-windows\restoran.dll
+C:\Users\Student\source\repos\restoran\restoran\bin\Debug\net8.0-windows\restoran.pdb
+C:\Users\Student\source\repos\restoran\restoran\obj\Debug\net8.0-windows\restoran.dll
+C:\Users\Student\source\repos\restoran\restoran\obj\Debug\net8.0-windows\refint\restoran.dll
+C:\Users\Student\source\repos\restoran\restoran\obj\Debug\net8.0-windows\restoran.pdb
+C:\Users\Student\source\repos\restoran\restoran\obj\Debug\net8.0-windows\restoran.genruntimeconfig.cache
+C:\Users\Student\source\repos\restoran\restoran\obj\Debug\net8.0-windows\ref\restoran.dll
